@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ibourgeoisep.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1680044044|RmYZ8hXkaG__
+ibourgeoisep.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
+ibourgeoisep.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=nane1
+
